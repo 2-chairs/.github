@@ -1,4 +1,4 @@
-## two chairs
+## 2-chairs
 robocup team for [@hwachongrobotics](https://github.com/hwachongrobotics)
 
 <!--
